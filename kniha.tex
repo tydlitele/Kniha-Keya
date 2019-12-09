@@ -1,0 +1,74 @@
+\documentclass[czech]{book}
+\usepackage{babel}
+
+\usepackage{geometry}
+ \geometry{
+ a5paper,
+ left=12mm,
+ top=10mm,
+ right=12mm,
+ bottom=14mm,
+ }
+
+\pagestyle{plain}
+
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd{\chapter}{\if@openright\cleardoublepage\else\clearpage\fi}{}{}{}
+\makeatother
+
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{PTSerif}
+
+\usepackage{titlesec}
+\usepackage{multicol}
+\usepackage{bookmark}
+
+
+\titleformat{\chapter}[display]
+  {\normalfont\bfseries}{}{0pt}{\Large}
+
+\titlespacing*{\chapter}{0pt}{0pt}{20pt}
+
+\usepackage{graphicx}
+\usepackage{pdfpages}
+\usepackage{wrapfig}
+
+\newcommand*\podpis[1]{
+	\vspace*{1pt} 
+	\hspace*{0em plus 1fill}\makebox{\textbf{#1}}
+	\vspace*{12pt} 
+}
+
+\newcommand{\nopar}{{\parfillskip=0pt \par}}
+
+
+
+\begin{document}
+
+%\input{frontpage}
+\includepdf[pages={1}]{img/obal.pdf}
+
+\input{predmluva}
+\input{obsah}
+
+\input{denik}
+
+\input{deti}
+\input{roveri}
+\input{udove}
+
+\input{hory}
+
+\input{stredisko2021}
+
+\input{krizovka}
+
+\input{vite_ze}
+
+\input{reklamy}
+
+\input{zaver}
+\end{document}
