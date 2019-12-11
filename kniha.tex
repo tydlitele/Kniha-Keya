@@ -25,6 +25,7 @@
 \usepackage{titlesec}
 \usepackage{multicol}
 \usepackage{bookmark}
+\usepackage{afterpage}
 
 
 \titleformat{\chapter}[display]
@@ -71,9 +72,13 @@
 \input{statistiky}
 
 \input{vite_ze}
-
+\input{sliby}
 \input{reklamy}
 
 \input{zaver}
+
+%chci mit kvuli tisku sudy pocet stranek
+\afterpage{\null\newpage}
+
 \input{zada}
 \end{document}
