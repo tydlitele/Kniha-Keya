@@ -37,6 +37,9 @@
 \usepackage{pdfpages}
 \usepackage{wrapfig}
 
+\usepackage{hyperref}
+\usepackage{url}
+
 \newcommand*\podpis[1]{
 	\vspace*{1pt} 
 	\hspace*{0em plus 1fill}\makebox{\textbf{#1}}
@@ -49,8 +52,8 @@
 
 \begin{document}
 
-%\input{frontpage}
-\includepdf[pages={1}]{img/obal.pdf}
+\input{frontpage}
+%\includepdf[pages={1}]{img/obal.pdf}
 
 \renewcommand{\baselinestretch}{1.2}
 
@@ -58,6 +61,7 @@
 \input{obsah}
 
 \input{denik}
+\input{hanyetu_tabor}
 
 \input{deti}
 \input{roveri}
@@ -77,8 +81,7 @@
 
 \input{zaver}
 
-%chci mit kvuli tisku sudy pocet stranek
-\afterpage{\null\newpage}
+\input{udove-foto}
 
 \input{zada}
 \end{document}
