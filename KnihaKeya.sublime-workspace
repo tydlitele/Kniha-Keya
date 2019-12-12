@@ -4,6 +4,50 @@
 		"selected_items":
 		[
 			[
+				"ma",
+				"major_pages\tstatement"
+			],
+			[
+				"C",
+				"C"
+			],
+			[
+				"p",
+				"p_beg\tstatement"
+			],
+			[
+				"p_",
+				"p_end\tstatement"
+			],
+			[
+				"in",
+				"\\input{file}                                      \tlatex-document"
+			],
+			[
+				"vs",
+				"\\vspace{length}                                   \tlatex-document"
+			],
+			[
+				"Cle",
+				"\\clearpage                                        \tlatex-document"
+			],
+			[
+				"ax",
+				"ax_a\tstatement"
+			],
+			[
+				"ax_",
+				"ax_a\tstatement"
+			],
+			[
+				"clear",
+				"\\clearpage                                        \tlatex-document"
+			],
+			[
+				"set",
+				"set_ylabel"
+			],
+			[
 				"x",
 				"xticks\tfunction"
 			],
@@ -184,10 +228,6 @@
 				"jadamilu_20"
 			],
 			[
-				"ma",
-				"matrixA"
-			],
-			[
 				"preco",
 				"preconditioning"
 			],
@@ -360,21 +400,325 @@
 	"buffers":
 	[
 		{
-			"contents": "\\chapter{Lodní deník etapkové skupiny Černí Rytíři (Anpetu)} % (fold)\n\\label{cha:lodní_deník_etapkové_skupiny_černí_rytíři_anpetu_}\n\nŠest námořních posádek na táboře Anpetu si mělo po celou dobu plavby za pokladem vést lodní deník, přičemž na konci tábora byly deníky vybrány a zhodnoceny. Zde předkládáme úplný přepis deníku posádky Černí rytíři. \n\n\n\\label{sub:lodní_deník_etapkové_skupiny_černí_rytíři}\n\n% subsection lodní_deník_etapkové_skupiny_černí_rytíři (end)\n\n\\subsubsection{Neděle7. 7. 2019, rozdělování do etapek} % (fold)\n\\label{ssub:rozdělování_do_etapek}\n\n% subsubsection rozdělování_do_etapek (end)\nDopoledne jsme se rozdělovali do etapkových skupinek. Chodili jsme po různých stanovištích kde jsme plnili úkoly, jako třeba vytahování barelu s vodou ze skoro vyschlého potoka, nebo lezení na strom.\n\nNa jednom stanovišti se vyplňoval dotazník, na kterém byly otázky jako třeba kolik šupin mám mořská panna, jak to, že si někdo umí spolknout nos a různé jiné námořnické otázky...\nPotom jsme chvíli pracovali.\n\n...A pak jsme dostali tenhle sešit do skupinekm které rozdělila kapitánka lodi, na které poplujeme, Kukumbrie drsné oko. V naší skupince jsou Hanuš, Zub, Anežka, Mauglí, Holub a Grizzly.\n\n\\podpis{Anežka}\n\n\\subsubsection{Pondělí 8. 7. 2019 Etapková hra} % (fold)\n\\label{ssub:pondělí_8_7_2019_etapková_hra}\n\n% subsubsection pondělí_8_7_2019_etapková_hra (end)\n\nDnes jsme hráli velmi zajímavou hru. Šlo o to že jsme běhali po několika stanovištích, a získávali jsme suroviny které jsme zase prodali ale za víc a za ty peníze co jsme získali jsme museli zase něco koupit například maso, zrní, zelí a tak dále museli jsme toho získat hodně a ještě získat peněz ale vyplatilo se to a vypráli jsme první místo dostali jsme dost peněz na to abychom si koupili například děla, koš (námořnický) a další věci\n\n\\podpis{GRIZZLY}\n\n\\subsubsection{Úterý 9. 7. 2019 - 2. Etapková hra } % (fold)\n\\label{ssub:_9_7_2019_2_etapková_hra_}\n\n\nOdpoledne nám Uďové řekli, abychom se oblíkli do plavek a přes ně si dali kostýmy. Když jsme to udělali, šli jsme k rybníku, kde jsme se rozdělili na etapkové skupinky a dostali jsme nafukovací matračku.\n\nKdyž se začalo, měli jsme matračku nafouknout a postupně na ni vždy plavat asi do půlky rybníkukde byly balónky naší skupinky.\n\nKaždý pak měl prasknout jeden balónek a plavat zpátky...\nNakonec jsme skončili první spolu se skupinkou Žraloci, protože jsme byli úplně nastejno.\n\n\\podpis{Anežka}\n\n% subsubsection _9_7_2019_2_etapková_hra_ (end)\n\n\\subsubsection{Středa 10. 7 – Úterý 11. 7. 2019 - 3. Etapková hra} % (fold)\n\\label{ssub:3_etapková_hra}\n\n% subsubsection 3_etapková_hra (end)\nTakže, ve středu večer jsme šli normálně spát... A pak najednou uprostřed noci začali Uďové gongat. Ale nebyl to přepad, jen nás chtěli vzbudit na etapkovou hru.\n\nV lese hořely čtyři ohně, my měli ten nejvíc vlevo. Měli jsme za úkol chodit, nebo v lepším případě běhat k ohni a hasit hovodou z hrníčku. V lese ale byli piráti, kteří naši loď zapálili a ti když nás chytli, tak jsme se museli vrátit zpátky do tábora ke škopku s vodou a udělat asi 5 dřepů. Po uhašení ohně jsme si vzali věci které nám piráti ukradli a šli jsme zase spát...\n\n\\podpis{Anežka}\n\n\\subsubsection{Středa 12. 7. 2019 - Olympiáda\nještě jedna věc} % (fold)\n\\label{ssub:středa_12_7_2019_olympiáda_ještě_jedna_věc}\n\n\\begin{wrapfigure}[14]{r}[1em]{5cm}\n\t\\centering\n\t\\vspace*{-45pt}\n\t\\includegraphics[width=5cm]{img/anpetu_tabor/lod.JPG}\n\\end{wrapfigure}\nZa to, jak jsme se umístili v etapkových hrách dostáváme peníze, za které si můžeme koupit věci jako třeba plachtu nebo kotvu. Rozhodli jsme se, že si zatím nic nekoupíme.\nV olympiádě bylo sedm dispcilplín. První byl hod kladivem. Mladší (Eskymáci a Kompoti) házeli myslím šestilkilovým a starší (Borúwky a Urzoni) osmikilovým. Další disciplína byla stání na jedné noze na kůlu nebo běh s uvázáním loďáku.\nTaky jsme měli třeba zvonit na rolničky uvázané na stromě nebo lovit Humrovi „peníze“ z bahna.\nU Vrtule jsme luštili zprávy v morseovce a pak jsme mohli i vypít ešus s vodou a běžet.\n\n\\podpis{Anežka}\n% subsubsection středa_12_7_2019_olympiáda_ještě_jedna_věc (end)\n\n\\subsubsection{Noční hra} % (fold)\n\\label{sub:noční_hra}\n\nzačalo to tak že vedoucí hrozně moc řvali přepad vyšichni jsme vylezli ze svích tee-pee a zjistili jsme že je to noční hra museli jsme si na brat do hrníčku vodu z kíble a běžet do lesa a tam byli čtiři ohně piráti nám zapálili lodě a mi jsme je museli uhasit za ohněm byli naše věci a museli jsme je na sto procet rozeznat což nám nešlo protože jsme neměli baterku ale nakonec jsme to zvádi sice jsme byli poslední ale zvládli jsme to. :-)\n\n\\podpis{GRIZZLY}\n\n% subsubsection noční_hra (end)\n\n\\subsubsection{Etapková hra} % (fold)\n\\label{ssub:etapková_hra}\n\t\ndnes jsme se všechny skupinky sešli před ohništěm a vyděli jsme tam lidojedi žvatlali hrozně richle nějaký nesmysli: švol ky la sumture a tak dále pak jsme šli do lesa ta tam byl šaman a překlad všech divnejch slov po chvíli jsme zistili že tam všechna slova nejsou a tak jsem se zeptali šamana a ten nám to sice nějak ale moc nevisvětlil nakonec jsme si slova nějak odvodili a měli jsme to skoro správně a měli jsme to první překlad vypadal nějak takhle: mi přicházíme v míru náš kmen váš kompas ugrilují vy se budete jen dívat napijte se s námi našeho pití\n\n\\podpis{Grizzly}\n% subsubsection etapková_hra (end)\n\n\\subsubsection{Honění bizonů a buvolů} % (fold)\n\\label{ssub:honění_bizonů_a_buvolů}\n\nzjistili jsme že nemáme žádné zásobi tak jsme zakotvili na ostrově kde jsme si byli jstí že tam jídlo bude ale nebylo ukázali nám papír na kterém měli plán a ten plán znamenal že nemají jídlo tak jsme museli chytat Bizoni a bůvoli a měli bysmé jich mít stejně a měli jsme mít dvojice ve tkerých jsme honili udi a bylo to tak že se ho musí dotknout oba ale jakmile se ho jeden dotkne tak bůvol – nebo byzon začne počíta a utíka a když ho druhý člen tímu nechytí musí se jít oživit a když ho chytne bůvol – nebo byzon jim vydá papírek mi jsme skončili jako třetí protože jsme měli výde bizonů\n\n\\podpis{Grizzly}\n% subsubsection honění_bizonů_a_buvolů (end)\n\n\\subsubsection{Cestování lodí} % (fold)\n\\label{ssub:cestování_lodí}\n\nšli jsme do lesa a tam jsme vyděli několik lodí/udů udové měli šátky a běhali k jinému stromu na kterém byl papír třeba srí lanka a uďa který jel na srí lanku tak potřeboval peníze na suroviny a další věci a mi jsme mu mohli půjčit peníze a když na lanku doje se šátkem tak nám dal dvojnásobek nebo 3x nebo někdy 4x a ostatní co přispívali na lodě mohli někomu uďovi vzít šátek a jakmile uďa stratí šátek tak loď skrachuje a všechny peníze co jsme na loď vsadili propadli měli jsme každý 200 Kč a většina skončila cca u 1000 Kč\n\n\\podpis{Grizzly}\n% subsubsection cestování_lodí (end)\n\n\\subsubsection{Bar} % (fold)\n\\label{ssub:bar}\nsetkali jsme se s Hanjetu u jídelny která byla zakrytá dekama a unit byli různý uďové/námořníci který se s námi o něco vsadili a když jsme vyhráli tak nám dali peníze a kdy jsme prohráli tak nám vzali peníze a za peníze jse si mohli koupit různý moc dobrý věci čokoládu, sušenky a další různý šladkosti nebo jsme si mohli vydělat peníze jinou cestou někdo někoho pocozí na dvojkoláku, namasíruje a tak dále\n\n\\podpis{Grizzly}\n% subsubsection bar (end)\n\n\\subsubsection{Manévry} % (fold)\n\\label{ssub:manévry}\n\nNej dřív jsme šly k rybníku a tam se vibourala loď a potom sm šli do ostrovce a tam k rybníku kde byl papírek a od tam tud sme šli k dalšímu papírku, až jsme došli do nějaké vesnice, kde na nás čekali Vrtule a Humr. S nima jsme přespali mezi rybníkama Vosovice a Žabák. Ráno jsme vyrazili k rybníku Zhoř, kde jsme u stavidla našli papírek v morseovce.\n\nDál jsme šli do Nevězic přes nějakou vesnici, kde jsme měli počítat dřevěná zvířata. V Nevězicích jsme se naobědvali a pokračovali jsme k rozcestníku Luh. Od tamtuď jsme šli k rozcestníku Lipice, který byl asi 8 km od Luhu. Cestou jsme šli přes nějakou vesnici, kde nám jedna paní doplnila vodu a navíc nám dala i bonbóny. Potom jsme šli k mostu přes řeku, kde byli uďové a oznámení, že se zítra na hradě Zvíkov sejdou piráti, a že pokud chceme pomoct, že se máme ráno mezi 9:00 a 10:00. Tak jsme zamířili k lesu pobíž hradu, kde jsme se potkali se skupinkou Plejtváci a Borci. Ráno jsme šli na hrad, kde jsme potkali piráta Strniště jehož deník byly ty papírky, co jsme nacházeli.\n\nTen nám řekl místo, kde byla schovaná mapa (část) k pokladu Žaka Hnědovouse. Pak jsme se vraceli do tábora a byli jsme první!\n\n\\podpis{Anežka}\n% subsubsection manévry (end)\n\n\\subsubsection{Etapková hra} % (fold)\n\\label{ssub:etapková_hra1}\n\nSice jsme získali mapu, jenže na ní není zakreslené místo, kde se nachází poklad.\n\nTakže jsme měli na louce najít naše piráty a získat od nich tři indície, které pak spojily všechny skupinky dohromady a vyšly z toho „souřadnice“ pokladu.\n\n\\podpis{Anežka}\n\n% subsubsection etapková_hra (end)\nNakonec jsme zjistili, že je to mapa NEPROBÁDANÝCH ÚZEMÍ.\n\n\\subsubsection{Etapková hra} % (fold)\n\\label{ssub:etapková_hra2}\n\nkapitínce kukumbrii se stratil papoušek a dalších spousu věci tak jsme šli na viznačené místo kde ty věci jsou a mi jsme si museli nakreslit mapu abychom věděli kde ti věci jsou a mohli tam doplout našli jsme tam například, tužku, sprej, vlajku nebo něco takového. Když jsme měli všechno zapsáno (nelbo ono jsme na to měli určitý čas ta-takže jsme měli co jsme měli ale byl to dostateční čas) tak jsme pak šli do tábora\n\n\\podpis{GRIZZLY}\n% subsubsection etapková_hra (end)\n\n\\subsubsection{Vařící etapka} % (fold)\n\\label{ssub:vařící_etapka}\n\nUďové nám oznámili, že máme uvařit pro Kukumbrii oběd, protože bude mít teď někdy narozeniny. Rozhodli jsme se, že budeme vařit v Borúwčím týpku, kam jsme si začali nosit suroviny na hodněchodový oběd pro Kukumbrii. Nakonec jsme měli: 1 rajče, skoro celou okurku, pytlík mouky, 7 brambor, 1 krajíc chleba, 5 vajíček, olej, sůl, koření, a hlavně rybu. Byla to ryba která měla hodně kostí, takže jsme měli takové maké kousíčky, které jsme smíchali s vajíčkem a moukou. Taky jsme se pokoušeli osmažit hranolky, ake nakonec jsme je rozmačkali na kaši, chutnaly tak líp. Taky jsme udělali jako přílohu chleba ve vajíčku. Kukumbrie řekla, že je to dobré.\n\n\\podpis{Anežka}\n\n% subsubsection vařící_etapka (end)\n\\subsubsection{Bar} % (fold)\n\\label{ssub:bar1}\n\nkapitánka Kukumbrie měla narozeniny a tak musela být oslava dali jsme ji dárky: píšťalku, míček, tučňáka, čokoládu a bonbóny. pak byl bar jako takový: překecávaná, sirky, kolíčky a hlavně sladkosti a slavnosti.:-) Pak jsme šli ven protože jsme slišeli romantickou hudbu a tam byla kukuočko s Eulálií na lodi a bylo to jako v titaniku\n\n\\podpis{GRIZZLY}\n\n% subsubsection bar (end)\n\n\\subsubsection{Vyvražďování} % (fold)\n\\label{ssub:vyvražďování}\n\nkapitánka kukumbrie drsné oko měla mít narozeniny a protože je to skvělá kapitánka tak jsme prostě museli mít dárek a přáníčko tak jsme dostali seznam věcí co máme sehnat a vyrazili jsme abychom to stihli šli jsme do vesnice a tam jsme museli sehnat: nejoriginálnějsí vec k narozeninám, přáníčko a dort nebo jinou pochutinu (pak taky jsme měli sechnat ten dárek tak že si budeme vyměňovat mušličku) a do tábora jsme měli dojít nejpozději v 19:00 vše jsme stihli a dostali jsme spóóóusti věcí a dobrot:-)\n\n\\podpis{Grizzly}\n\n% subsubsection vyvražďování (end)\n\\subsubsection{Pokladovka} % (fold)\n\\label{ssub:pokladovka}\n\npřepadli nás piráti a zabili kukumbrrii pak nás hned vyslali pomstít kukumbrii a najít poklad poslali nás do ostrovce na poštu kde vjsme měli najít čtiři obáli se jmény etapek v obálkách bylo napsáno v šivře ke je poklad (v šifrě) tak jsme tak došli a tam byla další správa o tom že si z nás vystřelili přesněji napsáno ha, ha napálili jste se hlupáci jen jsme získali čas na zakopání pokladu vraťe se do tábora Jonatán nám naštěstí řekl kde je poklas a museli jsme procházet tábořiště domorodců a pak jsme přešli rybník k ostrůvku kde byli piráti kteří po nás začali střílet naštěstí jsme mohli používat jejich papírové koule které používali jako střelbu a pomalu slábli a slábli až umřeli pak jsme našli místo kde by mohl být poklad a vykopali jsme ho tam bylo egzotické ovoce tak jsme ho vzali do tábora kde byla supr hostina: řízky, okurky, papryky, rajčátka a tak dále a protože jsme přijeli hodně pozdě tak jsme zalezli do sPacáčků a spali Grizzly a Karkulka\n\n\n% subsubsection pokladovka (end)\n% chapter lodní_deník_etapkové_skupiny_černí_rytíři_anpetu_ (end)\n",
 			"file": "denik.tex",
-			"file_size": 13450,
-			"file_write_time": 132203812270199499,
 			"settings":
 			{
-				"buffer_size": 12417,
+				"buffer_size": 13252,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": "membership = 2019 - data[:, 3].astype(np.int)",
+			"file": "prispevky_deti/urzoni.tex",
 			"settings":
 			{
-				"buffer_size": 45,
+				"buffer_size": 2293,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "prispevky_deti/eskymaci.tex",
+			"settings":
+			{
+				"buffer_size": 2134,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "prispevky_roveri/fik.tex",
+			"settings":
+			{
+				"buffer_size": 2848,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "prispevky_udu/humr.tex",
+			"settings":
+			{
+				"buffer_size": 4948,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "print_layout.py",
+			"settings":
+			{
+				"buffer_size": 807,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "prispevky_udu/kometa.tex",
+			"settings":
+			{
+				"buffer_size": 2941,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "prispevky_udu/stipadlo.tex",
+			"settings":
+			{
+				"buffer_size": 1307,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "prispevky_udu/koala.tex",
+			"settings":
+			{
+				"buffer_size": 3011,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "prispevky_udu/humr_oman.tex",
+			"settings":
+			{
+				"buffer_size": 4384,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "hory.tex",
+			"settings":
+			{
+				"buffer_size": 671,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "stredisko2021.tex",
+			"settings":
+			{
+				"buffer_size": 2604,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "statistiky.tex",
+			"settings":
+			{
+				"buffer_size": 1123,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "prispevky_deti/boruwky.tex",
+			"settings":
+			{
+				"buffer_size": 2971,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vite_ze.tex",
+			"settings":
+			{
+				"buffer_size": 1055,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sliby.tex",
+			"settings":
+			{
+				"buffer_size": 560,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "predmluva.tex",
+			"settings":
+			{
+				"buffer_size": 1148,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "prispevky_deti/kocicaci.tex",
+			"settings":
+			{
+				"buffer_size": 1990,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "prispevky_deti/kompoti.tex",
+			"settings":
+			{
+				"buffer_size": 3198,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 148,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "kniha.tex",
+			"settings":
+			{
+				"buffer_size": 1243,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "prispevky_udu/spunt.tex",
+			"settings":
+			{
+				"buffer_size": 2025,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "hanyetu_tabor.tex",
+			"settings":
+			{
+				"buffer_size": 852,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "zada.tex",
+			"settings":
+			{
+				"buffer_size": 123,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "prispevky_udu/vykac.tex",
+			"settings":
+			{
+				"buffer_size": 383,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 382,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "reklamy.tex",
+			"settings":
+			{
+				"buffer_size": 256,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "statistika/hanyetu.txt",
+			"settings":
+			{
+				"buffer_size": 1210,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "statistika/vek_histogram.py",
+			"settings":
+			{
+				"buffer_size": 825,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "statistika/clenstvi_histogram.py",
+			"settings":
+			{
+				"buffer_size": 924,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tisk.tex",
+			"settings":
+			{
+				"buffer_size": 552,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "udove-foto.tex",
+			"settings":
+			{
+				"buffer_size": 160,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "udove.tex",
+			"settings":
+			{
+				"buffer_size": 326,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "statistika/prexdivky.txt",
+			"settings":
+			{
+				"buffer_size": 1470,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "prispevky_deti/jejdove.tex",
+			"settings":
+			{
+				"buffer_size": 7405,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "deti.tex",
+			"settings":
+			{
+				"buffer_size": 430,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -599,6 +943,12 @@
 	},
 	"file_history":
 	[
+		"/run/media/vojta/KINGSTON/a",
+		"/home/vojta/Skaut/KnihaKeya2019/tisk.aux",
+		"/home/vojta/Skaut/KnihaKeya2019/statistika/prezdivky_h.txt",
+		"/home/vojta/Skaut/KnihaKeya2019/statistika/prezdivky_a.txt",
+		"/tmp/mozilla_vojta0/tcolorbox.doc.raster.tex",
+		"/home/vojta/Skaut/KnihaKeya2019/kniha.aux",
 		"/home/vojta/Skaut/KnihaKeya2019_bak/statistika/anpetu.txt",
 		"/home/vojta/Skaut/KnihaKeya2019_bak/statistika/hanyetu.txt",
 		"/home/vojta/Skaut/KnihaKeya2019_bak/statistika/vek_histogram.py",
@@ -720,17 +1070,11 @@
 		"/home/vojta/akademie/solver/external/sources/sparsex/configure.ac",
 		"/home/vojta/.ssh/config",
 		"/home/vojta/.ssh/github.pub",
-		"/home/vojta/akademie/solver/external/sources/sparsex/configure",
-		"/home/vojta/akademie/solver/external/sources/sparsex/.gitignore",
-		"/home/vojta/akademie/solver/test_jadamilu_generalized.py",
-		"/home/vojta/akademie/solver/test_matrices/small_sparse.py",
-		"/home/vojta/akademie/solver/setup_jadamilu.py",
-		"/home/vojta/akademie/solver/test_sparse.py",
-		"/home/vojta/akademie/solver/mae57.c"
+		"/home/vojta/akademie/solver/external/sources/sparsex/configure"
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 41.0
 	},
 	"find_in_files":
 	{
@@ -744,6 +1088,12 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"[0]",
+			"skutečnost",
+			"11",
+			"}\n",
+			"age_h",
+			"age_a",
 			"\t",
 			"#AAAAAA",
 			"\t",
@@ -765,6 +1115,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"12",
 			"",
 			"#666666",
 			""
@@ -778,7 +1129,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 5,
 			"sheets":
 			[
 				{
@@ -787,15 +1138,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 12417,
+						"buffer_size": 13252,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3365,
-								3365
+								11261,
+								11261
 							]
 						],
 						"settings":
@@ -803,38 +1154,997 @@
 							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1035.0,
+						"translation.y": 4275.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 34,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
+					"file": "prispevky_deti/urzoni.tex",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 45,
+						"buffer_size": 2293,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								45,
-								45
+								517,
+								517
 							]
 						],
 						"settings":
 						{
-							"default_dir": "/home/vojta/Skaut/KnihaKeya2019_bak/statistika",
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 403.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "prispevky_deti/eskymaci.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2062,
+								2062
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1244.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "prispevky_roveri/fik.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2848,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1367,
+								1367
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 33,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "prispevky_udu/humr.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4948,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4936,
+								4936
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1081.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "print_layout.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 807,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								299,
+								299
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 478.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "prispevky_udu/kometa.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2941,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2167,
+								2167
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 540.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 31,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "prispevky_udu/stipadlo.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1307,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1205,
+								1205
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "prispevky_udu/koala.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3011,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1321,
+								1321
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 30,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "prispevky_udu/humr_oman.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1084,
+								1084
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 120.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 29,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "hory.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 671,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								465,
+								465
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 28,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "stredisko2021.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2604,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1915,
+								1915
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 480.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 27,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "statistiky.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1123,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								926,
+								926
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "prispevky_deti/boruwky.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2971,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1345,
+								1345
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "vite_ze.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1055,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								961,
+								961
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "sliby.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 560,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								120,
+								120
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "predmluva.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1148,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								645,
+								645
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "prispevky_deti/kocicaci.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1990,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "prispevky_deti/kompoti.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3198,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3118,
+								3118
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1955.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 148,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								92,
+								92
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 32,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "kniha.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1243,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								830,
+								830
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 953.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "prispevky_udu/spunt.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2025,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1395,
+								1395
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "hanyetu_tabor.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 852,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								468,
+								468
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "zada.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 123,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								123,
+								123
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "prispevky_udu/vykac.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 383,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13,
+								13
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 382,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								306,
+								306
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "reklamy.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 256,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								256,
+								256
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "statistika/hanyetu.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1210,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1210,
+								1210
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 381.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 35,
+					"type": "text"
+				},
+				{
+					"buffer": 28,
+					"file": "statistika/vek_histogram.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 825,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								335,
+								335
+							]
+						],
+						"settings":
+						{
 							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"file": "statistika/clenstvi_histogram.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 924,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								361,
+								361
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 133.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 30,
+					"file": "tisk.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 552,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								552,
+								552
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 31,
+					"file": "udove-foto.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								160,
+								160
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 32,
+					"file": "udove.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 326,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								61,
+								61
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 33,
+					"file": "statistika/prexdivky.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1470,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								845,
+								845
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 778.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 34,
+					"file": "prispevky_deti/jejdove.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6846,
+								6846
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3054.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 35,
+					"file": "deti.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 430,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								202,
+								202
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
 					"type": "text"
 				}
 			]
@@ -857,11 +2167,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.625222292372,
 			1.0
 		],
 		"rows":
@@ -887,7 +2204,7 @@
 	"project": "KnihaKeya.sublime-project",
 	"replace":
 	{
-		"height": 54.0
+		"height": 74.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -917,7 +2234,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
